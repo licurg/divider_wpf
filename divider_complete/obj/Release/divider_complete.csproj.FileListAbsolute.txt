@@ -1,0 +1,14 @@
+D:\src\wpf\divider_complete\divider_complete\bin\Release\divider_complete.exe.config
+D:\src\wpf\divider_complete\divider_complete\bin\Release\divider_complete.exe
+D:\src\wpf\divider_complete\divider_complete\bin\Release\divider_complete.pdb
+D:\src\wpf\divider_complete\divider_complete\obj\Release\MainWindow.g.cs
+D:\src\wpf\divider_complete\divider_complete\obj\Release\App.g.cs
+D:\src\wpf\divider_complete\divider_complete\obj\Release\divider_complete_MarkupCompile.cache
+D:\src\wpf\divider_complete\divider_complete\obj\Release\divider_complete_MarkupCompile.lref
+D:\src\wpf\divider_complete\divider_complete\obj\Release\MainWindow.baml
+D:\src\wpf\divider_complete\divider_complete\obj\Release\divider_complete.g.resources
+D:\src\wpf\divider_complete\divider_complete\obj\Release\divider_complete.Properties.Resources.resources
+D:\src\wpf\divider_complete\divider_complete\obj\Release\divider_complete.csproj.GenerateResource.cache
+D:\src\wpf\divider_complete\divider_complete\obj\Release\divider_complete.csproj.CoreCompileInputs.cache
+D:\src\wpf\divider_complete\divider_complete\obj\Release\divider_complete.exe
+D:\src\wpf\divider_complete\divider_complete\obj\Release\divider_complete.pdb

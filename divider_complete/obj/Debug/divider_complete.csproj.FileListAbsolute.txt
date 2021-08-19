@@ -1,0 +1,16 @@
+D:\src\wpf\divider_complete\divider_complete\bin\Debug\divider_complete.exe.config
+D:\src\wpf\divider_complete\divider_complete\bin\Debug\divider_complete.exe
+D:\src\wpf\divider_complete\divider_complete\bin\Debug\divider_complete.pdb
+D:\src\wpf\divider_complete\divider_complete\obj\Debug\divider_complete.csprojAssemblyReference.cache
+D:\src\wpf\divider_complete\divider_complete\obj\Debug\MainWindow.g.cs
+D:\src\wpf\divider_complete\divider_complete\obj\Debug\App.g.cs
+D:\src\wpf\divider_complete\divider_complete\obj\Debug\divider_complete_MarkupCompile.cache
+D:\src\wpf\divider_complete\divider_complete\obj\Debug\divider_complete_MarkupCompile.lref
+D:\src\wpf\divider_complete\divider_complete\obj\Debug\MainWindow.baml
+D:\src\wpf\divider_complete\divider_complete\obj\Debug\divider_complete.g.resources
+D:\src\wpf\divider_complete\divider_complete\obj\Debug\divider_complete.Properties.Resources.resources
+D:\src\wpf\divider_complete\divider_complete\obj\Debug\divider_complete.csproj.GenerateResource.cache
+D:\src\wpf\divider_complete\divider_complete\obj\Debug\divider_complete.csproj.CoreCompileInputs.cache
+D:\src\wpf\divider_complete\divider_complete\obj\Debug\divider_complete.exe
+D:\src\wpf\divider_complete\divider_complete\obj\Debug\divider_complete.pdb
+D:\src\wpf\divider_complete\divider_complete\obj\Debug\GeneratedInternalTypeHelper.g.cs
